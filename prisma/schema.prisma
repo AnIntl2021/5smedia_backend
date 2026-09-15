@@ -11,6 +11,9 @@ model Admin {
   id           String   @id @default(cuid())
   email        String   @unique
   passwordHash String
+  name         String?
+  phone        String?
+  avatarUrl    String?
   createdAt    DateTime @default(now())
 }
 
