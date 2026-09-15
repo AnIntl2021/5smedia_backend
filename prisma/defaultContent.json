@@ -1,0 +1,222 @@
+{
+  "general": {
+    "logo": "/images/new-logo.png",
+    "siteName": { "en": "5S Media", "ar": "5S ميديا" },
+    "whatsapp": "https://wa.me/96555566402",
+    "socialLinks": [
+      { "href": "https://youtube.com/@wassimalhosari?si=9druMFWCeu0i584k", "icon": "fa-brands fa-youtube", "className": "youtube", "label": "YouTube" },
+      { "href": "https://www.facebook.com/share/1FQfSmExTr/", "icon": "fa-brands fa-facebook-f", "className": "facebook", "label": "Facebook" },
+      { "href": "https://www.tiktok.com/@5s.mediaproduction?_r=1&_t=ZS-98PNVpoZWNQ", "icon": "fa-brands fa-tiktok", "className": "tiktok", "label": "TikTok" },
+      { "href": "https://www.instagram.com/5s.media?igsh=MWQ3aHNsbGZocnFoMw==", "icon": "fa-brands fa-instagram", "className": "instagram", "label": "Instagram" }
+    ]
+  },
+  "hero": {
+    "badge": { "en": "Five Steps Media Production", "ar": "خمس خطوات للإنتاج الإعلامي" },
+    "titleLine1": { "en": "From Your", "ar": "من" },
+    "titleHighlight1": { "en": "Imagination", "ar": "خيالكم" },
+    "titleLine2": { "en": "to Our", "ar": "إلى" },
+    "titleHighlight2": { "en": "Visualization", "ar": "رؤيتنا الإبداعية" },
+    "desc": { "en": "Over 12 years of production excellence and 200+ creative projects globally. We bring your vision to life through stunning visuals and unforgettable events.", "ar": "أكثر من 12 عامًا من التميز في الإنتاج و200+ مشروع إبداعي حول العالم. نحول رؤيتكم إلى واقع من خلال مرئيات مذهلة وفعاليات لا تُنسى." },
+    "videoPoster": "/images/hero-cinematic.jpg",
+    "videoUrl": "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c02cba73e0c7499dce05c07c1b48b94f&profile_id=139&oauth2_token_id=57447761",
+    "ctaPrimary": { "en": "Our Services", "ar": "خدماتنا" },
+    "ctaSecondary": { "en": "Learn More", "ar": "اعرف المزيد" }
+  },
+  "about": {
+    "tag": { "en": "Who We Are", "ar": "من نحن" },
+    "title": { "en": "Over 12 Years of", "ar": "أكثر من 12 عامًا من" },
+    "titleHighlight": { "en": "Media Excellence", "ar": "التميز الإعلامي" },
+    "desc1": { "en": "Over 12 years of production and post-production work, 5S Media has collaborated on more than 200 creative projects globally. TV shows, documentaries, graphic design, social media videos, film editing, and organizing events are just a few examples.", "ar": "على مدار أكثر من 12 عامًا من العمل في الإنتاج وما بعد الإنتاج، تعاونت 5S ميديا في أكثر من 200 مشروع إبداعي حول العالم. البرامج التلفزيونية والأفلام الوثائقية والتصميم الجرافيكي وفيديوهات التواصل الاجتماعي ومونتاج الأفلام وتنظيم الفعاليات ما هي إلا أمثلة قليلة." },
+    "desc2": { "en": "We have built strong international partnerships to produce outstanding media services across multiple countries, bringing imagination to visualization with precision and artistry.", "ar": "لقد بنينا شراكات دولية قوية لتقديم خدمات إعلامية متميزة عبر دول متعددة، محوّلين الخيال إلى رؤية بصرية بدقة وإبداع." },
+    "expNumber": "12+",
+    "expText": { "en": "Years of Excellence", "ar": "سنوات من التميز" },
+    "images": { "main": "/images/portfolio-2.jpg", "float": "/images/portfolio-1.jpg" },
+    "features": [
+      { "icon": "fa-solid fa-award", "title": { "en": "200+ Projects", "ar": "أكثر من 200 مشروع" }, "desc": { "en": "Delivered across production, advertising, and events", "ar": "تم تنفيذها في مجالات الإنتاج والإعلان والفعاليات" } },
+      { "icon": "fa-solid fa-globe", "title": { "en": "Global Reach", "ar": "انتشار عالمي" }, "desc": { "en": "International partnerships producing top-tier media", "ar": "شراكات دولية لإنتاج محتوى إعلامي عالي الجودة" } }
+    ]
+  },
+  "services": {
+    "tag": { "en": "Core Services", "ar": "خدماتنا الأساسية" },
+    "title": { "en": "Innovative Media", "ar": "حلول إعلامية" },
+    "titleHighlight": { "en": "Solutions", "ar": "مبتكرة" },
+    "desc": { "en": "Innovative solutions tailored for your brand: Event Management, Video Editing, Advertisements, Special Occasion Photo Shoots, and Newborn Photography.", "ar": "حلول مبتكرة مصممة خصيصًا لعلامتكم التجارية: إدارة الفعاليات، مونتاج الفيديو، الإعلانات، جلسات التصوير الخاصة، وتصوير المواليد الجدد." },
+    "tabs": [
+      {
+        "id": "production",
+        "title": { "en": "Video Production & Editing", "ar": "إنتاج ومونتاج الفيديو" },
+        "image": "/images/video-editing.jpg",
+        "points": [
+          { "en": "Filming TVC & movie advertisements", "ar": "تصوير الإعلانات التجارية وإعلانات الأفلام" },
+          { "en": "Implementation & editing of documentaries", "ar": "تنفيذ ومونتاج الأفلام الوثائقية" },
+          { "en": "Filming and editing for social media content", "ar": "التصوير والمونتاج لمحتوى وسائل التواصل الاجتماعي" },
+          { "en": "Fully equipped Chroma Studio & post-production", "ar": "استوديو كروما مجهز بالكامل وخدمات ما بعد الإنتاج" },
+          { "en": "Motion graphics, info-graphics & color grading", "ar": "الرسوم المتحركة والإنفوجرافيك وتصحيح الألوان" },
+          { "en": "Professional product and commercial video", "ar": "إنتاج فيديوهات احترافية للمنتجات والإعلانات التجارية" }
+        ]
+      },
+      {
+        "id": "events",
+        "title": { "en": "Event Management", "ar": "إدارة الفعاليات" },
+        "image": "/images/events.jpg",
+        "points": [
+          { "en": "Orchestrating luxury weddings & celebrations", "ar": "تنظيم حفلات الزفاف والاحتفالات الفاخرة" },
+          { "en": "Corporate conferences, summits & galas", "ar": "المؤتمرات والقمم والحفلات الرسمية للشركات" },
+          { "en": "Birthday & special milestone party organization", "ar": "تنظيم حفلات أعياد الميلاد والمناسبات الخاصة" },
+          { "en": "State-of-the-art stage, sound & lighting setup", "ar": "تجهيز المسارح والصوت والإضاءة بأحدث التقنيات" },
+          { "en": "Live multicam video streaming & coverage", "ar": "البث المباشر متعدد الكاميرات وتغطية الفعاليات" },
+          { "en": "End-to-end event planning & coordination", "ar": "تخطيط وتنسيق الفعاليات من الألف إلى الياء" }
+        ]
+      },
+      {
+        "id": "ads",
+        "title": { "en": "Advertisements", "ar": "الإعلانات" },
+        "image": "/images/advertising.jpg",
+        "points": [
+          { "en": "High-impact TV & digital advertising campaigns", "ar": "حملات إعلانية تلفزيونية ورقمية عالية التأثير" },
+          { "en": "Creative commercial conceptualization", "ar": "ابتكار المفاهيم الإعلانية التجارية" },
+          { "en": "Brand storytelling and promo videos", "ar": "سرد القصص التجارية وفيديوهات الترويج" },
+          { "en": "Commercial product & model photography", "ar": "تصوير المنتجات والأزياء التجارية" },
+          { "en": "Targeted social media ad content creation", "ar": "إنشاء محتوى إعلاني مستهدف لوسائل التواصل الاجتماعي" },
+          { "en": "Visual marketing strategy & media placement", "ar": "استراتيجية التسويق البصري وتوزيع المحتوى الإعلامي" }
+        ]
+      },
+      {
+        "id": "shoots",
+        "title": { "en": "Special Occasion Photo Shoots", "ar": "جلسات تصوير المناسبات الخاصة" },
+        "image": "/images/photo-shoot.jpg",
+        "points": [
+          { "en": "Outdoor golden hour portrait photography", "ar": "تصوير بورتريه خارجي في ساعة الذهب" },
+          { "en": "Engagement, wedding & anniversary photo shoots", "ar": "جلسات تصوير الخطوبة والزفاف والذكرى السنوية" },
+          { "en": "Graduation & family milestone portraiture", "ar": "تصوير التخرج والمناسبات العائلية" },
+          { "en": "Studio fashion & portrait photography", "ar": "تصوير الأزياء والبورتريه في الاستوديو" },
+          { "en": "Artistic color correction & high-res retouching", "ar": "تصحيح ألوان فني وتعديل عالي الدقة" },
+          { "en": "Custom photo books and canvas prints", "ar": "ألبومات صور ولوحات قماشية مخصصة" }
+        ]
+      },
+      {
+        "id": "newborn",
+        "title": { "en": "Newborn Photography", "ar": "تصوير المواليد الجدد" },
+        "image": "/images/newborn-studio.jpg",
+        "points": [
+          { "en": "Peaceful & safe newborn baby portrait sessions", "ar": "جلسات تصوير آمنة وهادئة للمواليد الجدد" },
+          { "en": "Delicate handmade props, wraps & floral setups", "ar": "إكسسوارات يدوية وأغطية وزينة زهور أنيقة" },
+          { "en": "Capturing pure early days & milestone moments", "ar": "توثيق اللحظات الأولى والمراحل المهمة" },
+          { "en": "Sanitized, warm & baby-friendly studio", "ar": "استوديو معقم ودافئ وملائم للأطفال" },
+          { "en": "Parent & sibling newborn family portraits", "ar": "صور عائلية تجمع الوالدين والإخوة مع المولود" },
+          { "en": "Fine art digital galleries & heirloom albums", "ar": "معارض رقمية فنية وألبومات تذكارية راقية" }
+        ]
+      }
+    ],
+    "cards": [
+      { "icon": "fa-solid fa-calendar-check", "title": { "en": "Event Management", "ar": "إدارة الفعاليات" }, "desc": { "en": "From luxury weddings to corporate conferences, we design and execute unforgettable events with meticulous attention to every detail.", "ar": "من حفلات الزفاف الفاخرة إلى مؤتمرات الشركات، نصمم وننفذ فعاليات لا تُنسى بعناية فائقة بكل التفاصيل." }, "image": "/images/events.jpg", "category": "events" },
+      { "icon": "fa-solid fa-film", "title": { "en": "Video Production", "ar": "إنتاج الفيديو" }, "desc": { "en": "Full-service video production from concept to delivery. Commercials, documentaries, corporate videos, and social media content.", "ar": "إنتاج فيديو متكامل من الفكرة إلى التسليم. إعلانات تجارية، أفلام وثائقية، فيديوهات للشركات، ومحتوى لوسائل التواصل الاجتماعي." }, "image": "/images/video-editing.jpg", "category": "video" },
+      { "icon": "fa-solid fa-bullhorn", "title": { "en": "Advertisements", "ar": "الإعلانات" }, "desc": { "en": "Compelling ad campaigns that capture attention and drive results. TV commercials, digital ads, and brand storytelling.", "ar": "حملات إعلانية جذابة تلفت الانتباه وتحقق النتائج. إعلانات تلفزيونية ورقمية وسرد قصصي للعلامة التجارية." }, "image": "/images/advertising.jpg", "category": "ads" },
+      { "icon": "fa-solid fa-camera", "title": { "en": "Photo Shoots", "ar": "جلسات التصوير" }, "desc": { "en": "Professional photography for weddings, engagements, graduations, and special occasions with artistic vision.", "ar": "تصوير احترافي لحفلات الزفاف والخطوبة والتخرج والمناسبات الخاصة برؤية فنية مميزة." }, "image": "/images/photo-shoot.jpg", "category": "photo" },
+      { "icon": "fa-solid fa-baby", "title": { "en": "Newborn Photography", "ar": "تصوير المواليد" }, "desc": { "en": "Tender, artistic studio sessions capturing the pure beauty of your newborn with dreamy setups and gentle handling.", "ar": "جلسات استوديو فنية ورقيقة توثق جمال مولودكم الجديد بإعدادات حالمة ولمسة لطيفة." }, "image": "/images/newborn-studio.jpg", "category": "photo" },
+      { "icon": "fa-solid fa-palette", "title": { "en": "Graphic Design", "ar": "التصميم الجرافيكي" }, "desc": { "en": "Eye-catching visual designs for branding, social media, marketing materials, and digital content that elevates your brand.", "ar": "تصاميم بصرية جذابة للهوية التجارية ووسائل التواصل الاجتماعي والمواد التسويقية والمحتوى الرقمي التي ترتقي بعلامتكم التجارية." }, "image": "/images/portfolio-2.jpg", "category": "design" }
+    ]
+  },
+  "portfolio": {
+    "tag": { "en": "Our Masterpieces", "ar": "أبرز أعمالنا" },
+    "title": { "en": "Featured Portfolio", "ar": "معرض الأعمال المميزة" },
+    "filters": [
+      { "id": "all", "label": { "en": "All Work", "ar": "جميع الأعمال" } },
+      { "id": "events", "label": { "en": "Events", "ar": "فعاليات" } },
+      { "id": "video", "label": { "en": "Video", "ar": "فيديو" } },
+      { "id": "photo", "label": { "en": "Photography", "ar": "تصوير فوتوغرافي" } },
+      { "id": "ads", "label": { "en": "Advertising", "ar": "إعلانات" } },
+      { "id": "design", "label": { "en": "Design", "ar": "تصميم" } }
+    ],
+    "items": [
+      { "image": "/images/wedding.jpg", "category": "events", "cat": { "en": "Events", "ar": "فعاليات" }, "title": { "en": "Royal Wedding Celebration", "ar": "احتفال زفاف ملكي" }, "desc": { "en": "Luxury wedding production & design", "ar": "إنتاج وتصميم زفاف فاخر" }, "large": true },
+      { "image": "/images/newborn-studio.jpg", "category": "photo", "cat": { "en": "Photography", "ar": "تصوير فوتوغرافي" }, "title": { "en": "Newborn Dreams", "ar": "أحلام المواليد" }, "desc": { "en": "Artistic studio portraits", "ar": "بورتريه استوديو فني" }, "large": false },
+      { "image": "/images/video-editing.jpg", "category": "video", "cat": { "en": "Post-Production", "ar": "ما بعد الإنتاج" }, "title": { "en": "Cinema Edit Suite", "ar": "جناح مونتاج سينمائي" }, "desc": { "en": "Professional color grading & VFX", "ar": "تصحيح ألوان احترافي ومؤثرات بصرية" }, "large": false },
+      { "image": "/images/advertising.jpg", "category": "ads", "cat": { "en": "Advertising", "ar": "إعلانات" }, "title": { "en": "Brand Campaign", "ar": "حملة العلامة التجارية" }, "desc": { "en": "Creative commercial production", "ar": "إنتاج إعلاني إبداعي" }, "large": false },
+      { "image": "/images/corporate.jpg", "category": "events", "cat": { "en": "Events", "ar": "فعاليات" }, "title": { "en": "Corporate Gala", "ar": "حفل استقبال للشركات" }, "desc": { "en": "Spectacular stage & lighting design", "ar": "تصميم مسرح وإضاءة مذهل" }, "large": true },
+      { "image": "/images/photo-shoot.jpg", "category": "photo", "cat": { "en": "Photo Shoots", "ar": "جلسات تصوير" }, "title": { "en": "Golden Hour Portraits", "ar": "بورتريه ساعة الذهب" }, "desc": { "en": "Outdoor photography sessions", "ar": "جلسات تصوير خارجية" }, "large": false },
+      { "image": "/images/birthday.jpg", "category": "events", "cat": { "en": "Events", "ar": "فعاليات" }, "title": { "en": "Birthday Celebration", "ar": "احتفال عيد ميلاد" }, "desc": { "en": "Custom party design & decoration", "ar": "تصميم وديكور حفلات مخصص" }, "large": false },
+      { "image": "/images/hero-cinematic.jpg", "category": "photo", "cat": { "en": "Graduation", "ar": "تخرج" }, "title": { "en": "Graduation Memories", "ar": "ذكريات التخرج" }, "desc": { "en": "Special occasion graduate portraits", "ar": "بورتريه تخرج لمناسبة خاصة" }, "large": false },
+      { "image": "/images/portfolio-1.jpg", "category": "events", "cat": { "en": "Events", "ar": "فعاليات" }, "title": { "en": "Grand Event", "ar": "فعالية كبرى" }, "desc": { "en": "Large-scale event production", "ar": "إنتاج فعاليات واسعة النطاق" }, "large": false },
+      { "image": "/images/hero-bg.jpg", "category": "video", "cat": { "en": "Production", "ar": "إنتاج" }, "title": { "en": "Behind the Scenes", "ar": "خلف الكواليس" }, "desc": { "en": "Professional film production", "ar": "إنتاج أفلام احترافي" }, "large": false },
+      { "image": "/images/events.jpg", "category": "events", "cat": { "en": "Events", "ar": "فعاليات" }, "title": { "en": "Elegant Reception", "ar": "حفل استقبال أنيق" }, "desc": { "en": "Premium event styling", "ar": "تنسيق فعاليات متميز" }, "large": false },
+      { "image": "/images/portfolio-2.jpg", "category": "design", "cat": { "en": "Design", "ar": "تصميم" }, "title": { "en": "Creative Direction", "ar": "التوجيه الإبداعي" }, "desc": { "en": "Brand visual identity", "ar": "الهوية البصرية للعلامة التجارية" }, "large": false }
+    ]
+  },
+  "partners": {
+    "tag": { "en": "TRUSTED PARTNERS", "ar": "شركاء موثوقون" },
+    "title": { "en": "POWERING VISIONARY BRANDS & INSTITUTIONS", "ar": "نمكّن العلامات التجارية والمؤسسات الرائدة" },
+    "logos": [
+      "/pattners/1200px-Kuwaiti_National_Guard_Emblem.svg.png",
+      "/pattners/Huawei-logo-A8C7CBCAA8-seeklogo.com.png",
+      "/pattners/Kuwait-Airways-logo.png",
+      "/pattners/NBK-logo-92B50E9184-seeklogo.com (1).png",
+      "/pattners/Ooredoo_logo.svg.png",
+      "/pattners/Stc-logo.png",
+      "/pattners/ALQABAS-logo-removebg-preview (1).png",
+      "/pattners/dasman 2021.png",
+      "/pattners/0081998-269-rinnoo-51f44f20256c4ecf8fb6dcb3e866b031-removebg-preview (1).png",
+      "/pattners/1280x960-1-removebg-preview.png",
+      "/pattners/1280x960-2-removebg-preview.png",
+      "/pattners/1280x960-3-removebg-preview.png",
+      "/pattners/1280x960-4-removebg-preview.png",
+      "/pattners/1280x960-5-removebg-preview.png",
+      "/pattners/1280x960-removebg-preview (1).png",
+      "/pattners/519206_a-removebg-preview (1).png",
+      "/pattners/New_logo_copy-removebg-preview.png",
+      "/pattners/_Q4IyXb4_400x400-removebg-preview.png",
+      "/pattners/download-1-removebg-preview.png",
+      "/pattners/download-2-removebg-preview.png",
+      "/pattners/download-removebg-preview (1).png",
+      "/pattners/download-removebg-preview.png",
+      "/pattners/eeORvVpU_400x400-removebg-preview (1).png",
+      "/pattners/images-removebg-preview (1).png",
+      "/pattners/lh6.googleusercontent-removebg-preview.png",
+      "/pattners/logo (1).png",
+      "/pattners/logo final01 H (1).png",
+      "/pattners/logo.png",
+      "/pattners/logo_01.png",
+      "/pattners/mughal-mahal-removebg-preview.png",
+      "/pattners/sabab_logo-removebg-preview.png",
+      "/pattners/wizaret-removebg-preview.png",
+      "/pattners/xlogo-large.png.pagespeed.ic_-removebg-preview.png",
+      "/pattners/سوني.png",
+      "/pattners/مكتبة-البابطين-المركزية-للشعر-العربي1-removebg-preview.png",
+      "/pattners/نزاهة-removebg-preview.png"
+    ]
+  },
+  "stats": {
+    "bgImage": "/images/corporate.jpg",
+    "items": [
+      { "icon": "fa-solid fa-trophy", "target": 200, "label": { "en": "Projects Completed", "ar": "مشروع مكتمل" } },
+      { "icon": "fa-solid fa-users", "target": 150, "label": { "en": "Happy Clients", "ar": "عميل سعيد" } },
+      { "icon": "fa-solid fa-earth-americas", "target": 12, "label": { "en": "Years Experience", "ar": "سنوات خبرة" } },
+      { "icon": "fa-solid fa-handshake", "target": 50, "label": { "en": "Partners Worldwide", "ar": "شريك حول العالم" } }
+    ]
+  },
+  "cta": {
+    "title": { "en": "Ready to Bring Your Vision to Life?", "ar": "هل أنتم مستعدون لتحويل رؤيتكم إلى واقع؟" },
+    "desc": { "en": "Let's collaborate to create something truly spectacular that resonates with your audience.", "ar": "دعونا نتعاون لإنشاء شيء مذهل حقًا يترك أثرًا لدى جمهوركم." },
+    "primaryBtn": { "en": "Start Project", "ar": "ابدأ مشروعك" },
+    "secondaryBtn": { "en": "Watch Our Work", "ar": "شاهد أعمالنا" }
+  },
+  "contact": {
+    "tag": { "en": "Get In Touch", "ar": "تواصل معنا" },
+    "title": { "en": "Let's Connect", "ar": "لنتواصل" },
+    "panelTitle": { "en": "Let's Create Something Great", "ar": "لنبدع شيئًا رائعًا معًا" },
+    "panelDesc": { "en": "Ready to start your next project? Get in touch with us today.", "ar": "هل أنتم مستعدون لبدء مشروعكم القادم؟ تواصلوا معنا اليوم." },
+    "location": { "en": "83RH+XQC, Salmiya, Kuwait", "ar": "83RH+XQC، السالمية، الكويت" },
+    "locationMapLink": "https://maps.app.goo.gl/kekDVTht5yQZeucv6",
+    "email": "info@5s-media.com",
+    "workingHours": { "en": "Mon-Sat: 9:00 AM - 6:00 PM", "ar": "الإثنين - السبت: 9:00 صباحًا - 6:00 مساءً" },
+    "website": "www.5s-media.com",
+    "phone": "+965 55566402",
+    "mapEmbedUrl": "https://www.google.com/maps?q=5S+Media,+Salmiya,+Kuwait&output=embed"
+  },
+  "footer": {
+    "tagline": { "en": "Over 12 years of production excellence and 200+ creative projects globally.", "ar": "أكثر من 12 عامًا من التميز في الإنتاج و200+ مشروع إبداعي حول العالم." },
+    "copyrightText": { "en": "© 2026 5S Media. All Rights Reserved.", "ar": "© 2026 5S ميديا. جميع الحقوق محفوظة." },
+    "credit": { "en": "Designed and Developed by An International", "ar": "تصميم وتطوير An International" },
+    "creditUrl": "https://www.an-international.com/"
+  }
+}

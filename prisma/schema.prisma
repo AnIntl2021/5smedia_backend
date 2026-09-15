@@ -1,0 +1,22 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Admin {
+  id           String   @id @default(cuid())
+  email        String   @unique
+  passwordHash String
+  createdAt    DateTime @default(now())
+}
+
+// Single-row table holding the entire site content tree as JSON.
+model Content {
+  id        Int      @id @default(autoincrement())
+  data      String
+  updatedAt DateTime @updatedAt
+}
